@@ -1,0 +1,19 @@
+# Core
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.2
+
+# Scikit-Learn and related
+scikit-learn>=1.1.0
+scikit-learn-inspection>=0.1.2
+
+# Explainer Dashboard
+explainerdashboard>=0.3.7
+
+# Jupyter environment
+jupyter>=1.0.0
+ipykernel>=6.0
+
+# Utilities
+joblib>=1.2.0
